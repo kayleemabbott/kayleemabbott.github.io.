@@ -7,6 +7,37 @@
     <link href="style.css" rel="stylesheet" type="text/css" />
   </head>
   <body>
+
+<!-- Main Content -->
+<main>
+Main
+
+<!-- Header --> 
+<header>
+Header 
+</header>
+
+<!-- Hero -->
+<section> 
+Hero
+</section> 
+
+<!-- Content --> 
+<section> 
+Content 
+</section>
+
+<!-- Sidebar --> 
+<aside> 
+Sidebar
+</aside>
+
+<!-- Footer -->
+<footer>
+Footer 
+</footer>
+</main>
+
     <h1> The Title Of My Website </h1>
   
     <p> A paragraph explaining more information about my website </p>
